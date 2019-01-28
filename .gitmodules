@@ -1,0 +1,9 @@
+[submodule "OSharp.Api"]
+	path = OSharp.Api
+	url = https://github.com/Milkitic/OSharp.Api
+[submodule "OSharp.Beatmap"]
+	path = OSharp.Beatmap
+	url = https://github.com/Milkitic/OSharp.Beatmap
+[submodule "OSharp.Storyboard"]
+	path = OSharp.Storyboard
+	url = https://github.com/Milkitic/OSharp.Storyboard
