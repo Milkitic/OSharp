@@ -7,3 +7,6 @@
 [submodule "OSharp.Storyboard"]
 	path = OSharp.Storyboard
 	url = https://github.com/Milkitic/OSharp.Storyboard
+[submodule "OSharp.Common"]
+	path = OSharp.Common
+	url = https://github.com/Milkitic/OSharp.Common
